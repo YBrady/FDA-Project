@@ -9,8 +9,8 @@
 **Student ID**: G00376355  
 ***
 
-## Table of Contents ##
-1. Introduction<img align="right" src="images/tip-jar.jpg">
+## Table of Contents <img align="right" src="images/tip-jar.jpg" width= "300"> ## 
+1. Introduction
 2. Instructions
 3. Dataset Overview
 4. Exploration of Relationships
